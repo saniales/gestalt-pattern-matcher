@@ -1,6 +1,6 @@
 {
   "name": "gestalt-pattern-matcher",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": "https://github.com/saniales/gestalt-pattern-matcher",
   "description": "Finds the similarity between strings and represents it as a number",
   "main": "dist/index.js",
