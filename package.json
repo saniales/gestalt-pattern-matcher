@@ -1,15 +1,27 @@
 {
   "name": "gestalt-pattern-matcher",
-  "version": "0.0.5",
-  "repository": "https://github.com/saniales/gestalt-pattern-matcher",
+  "version": "0.0.9",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saniales/gestalt-pattern-matcher.git"
+  },
+  "homepage": "https://github.com/saniales/gestalt-pattern-matcher",
+  "bugs": {
+    "url": "https://github.com/saniales/gestalt-pattern-matcher/issues"
+  },
+  "author": {
+    "name": "Alessandro Sanino",
+    "email": "alessandro@sanino.dev",
+    "url": "https://alessandro.sanino.dev"
+  },
   "description": "Finds the similarity between strings and represents it as a number",
+  "keywords": [ "pattern-matching", "gestalt", "string-similarity", "similarity" ],
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "prepublish": "tsc"
   },
-  "author": "Alessandro Sanino",
-  "license": "MIT",
   "devDependencies": {
     "typescript": "^4.0.3"
   }
