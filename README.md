@@ -19,7 +19,16 @@ yarn add gestalt-pattern-matcher
 # Usage
 
 ``` typescript
+// ES7
 import gestaltSimilarity from "gestalt-pattern-matcher";
+
+const firstString = "Test 1";
+const secondString = "Test 2";
+
+console.log(gestaltSimilarity(firstString, secondString));
+
+// commonJS
+const gestaltSimilarity = require("gestalt-pattern-matcher").default;
 
 const firstString = "Test 1";
 const secondString = "Test 2";

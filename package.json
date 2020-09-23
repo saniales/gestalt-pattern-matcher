@@ -1,6 +1,7 @@
 {
   "name": "gestalt-pattern-matcher",
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "repository": "https://github.com/saniales/gestalt-pattern-matcher",
   "description": "Finds the similarity between strings and represents it as a number",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +10,7 @@
   },
   "author": "Alessandro Sanino",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.0.3"
   }
 }
