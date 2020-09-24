@@ -1,4 +1,4 @@
-# gestalt-pattern-matcher
+# [gestalt-pattern-matcher](https://www.npmjs.com/package/gestalt-pattern-matcher) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/saniales/gestalt-pattern-matcher/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/gestalt-pattern-matcher.svg?style=flat-square)](https://www.npmjs.com/package/gestalt-pattern-matcher) [![downloads](https://img.shields.io/npm/dt/gestalt-pattern-matcher?style=flat-square)](https://www.npmjs.com/package/gestalt-pattern-matcher)
 
 This is an implementation of the [***Ratcliff/Obershelp Gestalt pattern-matching algorithm***](https://en.wikipedia.org/wiki/Gestalt_Pattern_Matching) in NodeJS.
 
