@@ -1,2 +1,3 @@
-testdata/*
-*.test.ts
+.github
+testdata
+*.ts
